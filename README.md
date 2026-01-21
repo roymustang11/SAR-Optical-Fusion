@@ -1,6 +1,6 @@
 # Fusion of Optical and SAR Data for LAI Estimation
 
-This repository implements the methodology described in: **"Fusion of Optical and SAR Data Using Three Approaches for the Estimation of LAI With Modified Integral Equation Model"** (IEEE GRSL, 2024).
+This repository implements the methodology described in: **"[Fusion of Optical and SAR Data Using Three Approaches for the Estimation of LAI With Modified Integral Equation Model](https://doi.org/10.1109/LGRS.2024.3453046)"** (IEEE GRSL, 2024).
 
 ## 🌾 Research Overview
 This study presents a comprehensive investigation of **Leaf Area Index (LAI)** estimation for wheat crops using **Sentinel-1 (SAR)** and **Sentinel-2 (Optical)** datasets. It introduces a novel derivation of the backscattering coefficient for the **Integral Equation Model (IEM)** at **VH polarization**.
