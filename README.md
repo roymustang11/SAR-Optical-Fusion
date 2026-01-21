@@ -34,7 +34,7 @@ The optimized model was built using the **TensorFlow** library with the followin
 * **Hidden Layer 1**: 64 units, ReLU activation, L2 regularization.
 * **Hidden Layer 2**: 32 units, ReLU activation, L2 regularization.
 * **Output Layer**: Linear activation.
-* **Training**: 50 epochs with a 30% validation split.
+* **Training**: 70:30% training : validation split.
 
 ## 📜 Citation
 If you use this work, please cite:
